@@ -189,6 +189,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or support, please reach out via GitHub issues or email: \[[kibutujr@gmail.com](mailto:kibutujr@gmail.com)]
 
 ---
-
-If you want, I can also help you commit and push this README to GitHub!
-```
